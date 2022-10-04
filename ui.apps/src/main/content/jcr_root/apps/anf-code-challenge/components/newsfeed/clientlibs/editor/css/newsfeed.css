@@ -1,0 +1,29 @@
+.nfcontainer{
+    background: #C8C8C8;
+    margin: auto;
+    width: 85%;
+}
+.article-image {
+    height: 320px;
+    width: 30%;
+}
+
+.text-container {
+     width: 60%;
+    float: right;
+}
+.article-section {
+     padding: 1em 1em 2em 1em;
+        }
+.article-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+ .date-section {
+    color: #6F7378;
+    margin-top: 0.5em;
+}
+ .article-content{
+   color: #4C4E52;
+    margin: 1em 10em 0em 0em;
+    }
