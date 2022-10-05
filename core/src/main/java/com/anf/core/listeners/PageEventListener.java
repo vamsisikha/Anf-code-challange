@@ -60,7 +60,7 @@ public class PageEventListener implements EventListener {
 	
 	private static final String PAGE_PATH="/content/anf-code-challenge/us/en";
 	
-	private static final String SUBSERVICE_NAME="eventingService";
+	private static final String SUBSERVICE_NAME="anfuser";
 	
 	/**
 	 * Activate method to initialize stuff

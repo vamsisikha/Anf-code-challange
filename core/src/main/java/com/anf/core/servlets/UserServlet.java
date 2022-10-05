@@ -48,7 +48,7 @@ public class UserServlet extends SlingAllMethodsServlet {
 	 * Resource Resolver
 	 */
 	transient ResourceResolver resolver;
-	private static final String SUBSERVICE_NAME = "eventingService";
+	private static final String SUBSERVICE_NAME = "anfuser";
     transient Session session;
 
 	@Override
